@@ -2,6 +2,8 @@
 - Enables Hotkeys for Laptops without a Middle Click.
 
 ## Download(s):
+- Download the [AutoLoader Here]().
+- Download the [Hotkey App Here]().
 
 ## Building:
 ### Hotkeys Application:
