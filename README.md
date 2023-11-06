@@ -1,5 +1,6 @@
 # ISZ_H
 - Enables Hotkeys for Laptops without a Middle Click.
+- Requires [UMU](https://illusory.dev/index.html#) (**UnrealModLoader**) and it's Plugins Folder Specifically "UnrealModPlugins" Folder at the game's root Directory.
 
 ## Download(s):
 - Download the [AutoLoader Here](https://github.com/Cracko298/ISZ_H/releases/download/v1/iszhLoad.dll).
